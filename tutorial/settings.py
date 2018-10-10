@@ -25,7 +25,7 @@ SECRET_KEY = ')sm(9e&m2)(tp_p38rj*3ks_fclsu4rm36wjz)=!beco&l+hmb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

@@ -1,3 +1,4 @@
 django==2.0
-djangorestframework
-pygments
+djangorestframework==3.8.2
+pygments==2.2.0
+httpie==0.9.9
